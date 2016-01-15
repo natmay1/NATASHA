@@ -1,0 +1,18 @@
+.fullname{
+        text-align:center;
+color:darkblue;
+font-size:35pt}
+.secondname{
+    text-align:center;
+    font-size:15pt;
+    text-align:center;
+    
+}
+.section-title{
+        background-color:darkblue;
+    color:white;
+                padding:10px
+            }
+.section-p{
+                margin-left:20px;
+}
